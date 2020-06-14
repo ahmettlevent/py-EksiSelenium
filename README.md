@@ -14,4 +14,5 @@ Download - Selenium and ChromeWebDriver
 <br>
 <h2>How To Run</h2>
 Everyhing you need in main.py
+<br>
 Run main.py
